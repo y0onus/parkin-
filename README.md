@@ -1,5 +1,4 @@
-# Smart Parking Gate & Display System
-
+# Smart Parking System - Raspberry Pi
 This project implements a smart parking-gate and display system using a Raspberry Pi, infrared sensors, servos, an I2C LCD and a Firebase realtime database.  
 It also includes a public website where users can check free/occupied parking slots in real-time.
 
